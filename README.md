@@ -16,7 +16,7 @@ This internship focuses on strengthening practical programming skills through re
 ALFIDO-TECH/
 │
 ├── 📁 Task1-FileAutomation
-├── 📁 Task2
+├── 📁 Task2-API-Integration
 ├── 📁 Task3
 └── 📄 README.md
 ```
@@ -41,9 +41,17 @@ A menu-driven Python application that automates common file operations.
 
 ---
 
-### 📁 Task 2
+### 🌐 Task 2 – API Integration & JSON Handling
 
-🔄 Project details will be updated upon completion.
+A Python application that fetches real-time weather information from an external API and displays the data in a user-friendly format.
+
+**Features:**
+
+* 📡 API Integration using Requests Library
+* 📄 JSON Data Parsing
+* 🔍 City-Based Search Functionality
+* ⚠️ Error Handling
+* 🌦️ Real-Time Weather Information
 
 ---
 
@@ -52,19 +60,19 @@ A menu-driven Python application that automates common file operations.
 🔄 Project details will be updated upon completion.
 
 ---
-
 ## 🛠️ Technologies Used
 
 * 🐍 Python 3.x
 * 📂 File Handling
 * ⚙️ OS Module
 * 🔄 Shutil Module
+* 📡 Requests Library
+* 📄 JSON Handling
 * ⚠️ Exception Handling
 * 🌐 Git & GitHub
 * 💻 Visual Studio Code
 
----
-
+----------
 ## 🎯 Learning Objectives
 
 Through these projects, I aim to:
@@ -88,7 +96,7 @@ Through these projects, I aim to:
 | Task   | Status        |
 | ------ | ------------- |
 | Task 1 | ✅ Completed   |
-| Task 2 | ⏳ In Progress |
+| Task 2 | ✅ Completed |
 | Task 3 | ⏳ Upcoming    |
 
 ---
